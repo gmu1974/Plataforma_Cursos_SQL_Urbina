@@ -1,0 +1,28 @@
+[
+	{
+		"id_codigo_curso" : 211,
+		"nombre_curso" : "React",
+		"contenido_curso" : "Introducción al lenguaje de programación",
+		"precio_curso" : 22500,
+		"inicio_curso" : "2020-03-25",
+		"final_curso" : "2020-09-25"
+	},
+	{
+		"id_codigo_curso" : 212,
+		"nombre_curso" : "Vue",
+		"contenido_curso" : "Introducción al lenguaje de programación",
+		"precio_curso" : 18000,
+		"inicio_curso" : "2020-04-25",
+		"final_curso" : "2020-06-25"
+	},
+	{
+		"id_codigo_curso" : 213,
+		"nombre_curso" : "Swift",
+		"contenido_curso" : "Introducción al lenguaje de programación",
+		"precio_curso" : 36000,
+		"inicio_curso" : "2022-05-25",
+		"final_curso" : "2022-09-25"
+
+	}
+	
+]
